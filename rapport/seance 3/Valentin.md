@@ -7,8 +7,7 @@ Nous avons fini avec le fonctionnement des servos moteurs, nous pouvons maintena
 Le moteur de la base tourne avec un angle de 180° de gauche a droite et le deuxième avec un angle de 90° de haut en bas. 
 Avec ces angles nous pouvons couvrir tout l'espace devant la ruche.
 
-Nous sommes ensuite passer sur le fonctionnement de la carte maixduino et l'IA qui va permettre de reconnaitre les frelons. J'ai effectué encore
-beaucoup de recherche, le fonctionnement est complexe et nous avons du mal. La carte Maixduino ne se branche pas avec un cable micro usb mais USB-C.
+Nous sommes ensuite passer sur le fonctionnement de la carte maixduino et l'IA qui va permettre de reconnaitre les frelons. De mon côté je me suis penché sur l'initialisation de la carte , je ne comprends pas encore comment programmer la carte maixduino, nous devons faire des réglages préalable pour pouvoir l'utiliser.
 
 Nous sommes allé sur le github de sipeed ( https://github.com/sipeed/Maixduino ) nous avons suivi les instructions pour pouvoir faire marcher la carte. 
 Nous avons donc installé pluisieurs modules qui permettent de faire fontionner le code. Nous allons probablement nous tourner vers un autre 
