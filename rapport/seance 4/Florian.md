@@ -8,4 +8,4 @@ J'ai réorganiser les modules sur la planche en bois pour qu'ils soit plus acces
 
 J'ai ensuite branché les servos moteurs sur la carte maixduino pour pouvoir avoir une seule carte et laisser tomber la carte de base. Nous sommes sur un autre IDE (MaixPY), le fonctionnement n'est donc pas le même, nous avons donc pris un nouveau code. 
 
-Finnalement dans cette séance nous avons pu nous débloquer en ayant réussi à faire fonctionner la carte Maixduino, de plus nous avons transférer les servos moteurs sur la carte Maixduino pour n'avoir plus qu'une seule carte. 
+> Finnalement dans cette séance nous avons pu nous débloquer en ayant réussi à faire fonctionner la carte Maixduino, de plus nous avons transférer les servos moteurs sur la carte Maixduino pour n'avoir plus qu'une seule carte. 
